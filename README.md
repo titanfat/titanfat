@@ -3,7 +3,7 @@
 
 
 [![](https://img.shields.io/badge/-ov_tit-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ov_tit)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/titanfat)
+[![](https://img.shields.io/badge/-@titanfat-%23181717?style=flat-square&logo=github)](https://github.com/titanfat)
 
 𝑰 ❤️  Ruby on Rails!
 
@@ -11,7 +11,7 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-
+![Ruby on Rails](https://img.shields.io/badge/-RubyonRails-%232c3e50?logoColor=red&logo=ruby)
 ![TypeScript](https://img.shields.io/badge/-Ts-%232c3e50?style=flat-square&logo=typescript)
 ![Ruby](https://img.shields.io/badge/-Ruby.rb-%232c3e50?style=flat-square&logo=ruby)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
