@@ -5,7 +5,7 @@
  
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanfat&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanfat&hide=html,&hide_border=true&title_color=5391FE&text_color=555&show_icons=true&theme=dracula" />
 </a>
 
 </details> 
