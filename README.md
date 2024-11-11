@@ -9,7 +9,7 @@
 
 :writing_hand:  𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/titanfat/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![Ruby on Rails](https://img.shields.io/badge/-RubyonRails-%232c3e50?logoColor=red&logo=ruby)
 ![TypeScript](https://img.shields.io/badge/-Ts-%232c3e50?style=flat-square&logo=typescript)
